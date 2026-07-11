@@ -70,6 +70,5 @@ def save_log(df, path="workout_log.csv"):
 
 def load_log(path="workout_log.csv"):
     """Read the log CSV back into a typed frame.
-    parse_dates rebuilds the datetime type (fixing the logging-time drift).
-    # TODO: re-add missing-file guard for the Streamlit front end (first-run, no CSV yet)."""
+    parse_dates rebuilds the datetime type (fixing the logging-time drift)."""
     return pd.read_csv(path, parse_dates=["date"]) #read the csv file back into a dataframe and parse the date column to a datetime object

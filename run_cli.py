@@ -9,7 +9,7 @@ def main():
  
     workout_log = load_log()
 
-    date = "2026-07-07"
+    date = "2026-07-07 00:00:00"
     todays_workout = [
         ("Back Squat", [(5, 185.0, "felt strong"), (5, 195.0, ""), (2, 205.0, "very hard")]),
         ("Bench Press", [(10, 135.0, "good speed")]),

@@ -1,6 +1,6 @@
 date,exercise_name,set_number,reps,weight,notes
-2026-05-24 00:00:00,Back Squat,2,5,165.0,
 2026-05-24 00:00:00,Back Squat,1,5,165.0,
+2026-05-24 00:00:00,Back Squat,2,5,165.0,
 2026-05-24 00:00:00,Back Squat,3,5,165.0,
 2026-05-24 00:00:00,Back Squat,4,3,170.0,
 2026-05-24 00:00:00,Pull-Up,1,8,0.0,
@@ -63,9 +63,9 @@ date,exercise_name,set_number,reps,weight,notes
 2026-06-27 00:00:00,Bench Press,1,10,135.0,good speed
 2026-06-27 00:00:00,Pull-Up,1,10,0.0,
 2026-06-27 00:00:00,Pull-Up,2,9,0.0,
-2026-07-07,Back Squat,1,5,185.0,felt strong
-2026-07-07,Back Squat,2,5,195.0,
-2026-07-07,Back Squat,3,2,205.0,very hard
-2026-07-07,Bench Press,1,10,135.0,good speed
-2026-07-07,Pull-Up,1,10,0.0,
-2026-07-07,Pull-Up,2,9,0.0,
+2026-07-07 00:00:00,Back Squat,1,5,185.0,felt strong
+2026-07-07 00:00:00,Back Squat,2,5,195.0,
+2026-07-07 00:00:00,Back Squat,3,2,205.0,very hard
+2026-07-07 00:00:00,Bench Press,1,10,135.0,good speed
+2026-07-07 00:00:00,Pull-Up,1,10,0.0,
+2026-07-07 00:00:00,Pull-Up,2,9,0.0,
