@@ -66,8 +66,12 @@ date,exercise_name,set_number,reps,weight,notes
 2026-07-07,Back Squat,1,5,185.0,felt strong
 2026-07-07,Back Squat,2,5,195.0,
 2026-07-07,Back Squat,3,2,205.0,very hard
-2026-07-07,Bench Press,1,10,135.0,good speed
 2026-07-07,Pull-Up,1,10,0.0,
 2026-07-07,Pull-Up,2,9,0.0,
 2026-07-26,Overhead Press,1,5,85.0,
 2026-07-26,Overhead Press,2,5,95.0,
+2026-07-07,Bench Press,1,10,135.0,
+2026-07-07,Bench Press,2,10,155.0,
+2026-07-07,Bench Press,3,10,165.0,
+2026-07-07,Bench Press,4,8,175.0,fail
+2026-07-07,Bench Press,5,4,185.0,fail
